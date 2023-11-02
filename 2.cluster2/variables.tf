@@ -6,7 +6,7 @@ variable "name" {
 }
 
 variable "region" {
-  default     = "us-west-2"
+  default     = "us-east-2"
   type = string
   description = "AWS region"
 }
